@@ -374,5 +374,11 @@ footer ul li a:hover{
 
 }
 
+@media (max-width: 375px) {
+    .popup {
+        height: 25rem;
+    }
+}
+
 .attribution { display:none; font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
