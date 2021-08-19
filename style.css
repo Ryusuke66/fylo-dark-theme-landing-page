@@ -344,6 +344,7 @@ footer ul li a:hover{
 
     .content {
         margin: 0 5%;
+        padding: 30px 20px;
     }
 
     .content input, .content button {
@@ -353,6 +354,10 @@ footer ul li a:hover{
 
     .content input {
         margin-bottom: 30px;
+    }
+
+    .content .valid {
+        margin: 10px 0 0 10px;
     }
 
     footer {
