@@ -207,6 +207,7 @@ main {
     padding: 30px 50px;
     position: absolute;
     bottom: -80px;
+    border-radius: 5px;
 }
 
 .content h2 {
