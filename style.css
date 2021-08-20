@@ -241,7 +241,7 @@ main {
     visibility: hidden;
 }
 
-.content button:focus + .valid {
+.content input:invalid + button:focus + .valid {
     visibility: visible;
 }
 
