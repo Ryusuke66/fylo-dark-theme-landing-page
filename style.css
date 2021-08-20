@@ -19,7 +19,7 @@ header {
     background-position: bottom;
 }
 
-h1, h2, h3, button{
+h1, h2, button{
     font-family: 'Raleway';
 }
 
@@ -105,8 +105,9 @@ main {
     height: 100px; 
 }
 
-.feat h3 {
+.feat h2 {
     margin: 10px 0;
+    font-size: 1.17em;
 }
 
 .work {
